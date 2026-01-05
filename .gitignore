@@ -6,7 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# requirements.txt
 # .artifacts/
 # Distribution / packaging
 .Python
